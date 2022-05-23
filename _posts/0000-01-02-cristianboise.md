@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*There's no going back now!*
 Use the left arrow to go back!
 
